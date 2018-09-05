@@ -6,3 +6,12 @@ git commit -m "comentario"
 git init 
 git branch nombre 
 git branch 
+
+
+git remote add mio url 
+git pull mio master //con esto tengo archivos en el local
+
+
+despues git add, git commit
+git push ---set-upstream mio master ,,,,,, de ahi iniciar sesion la primera vez 
+despues git push mio
