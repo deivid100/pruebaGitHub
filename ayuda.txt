@@ -1,0 +1,8 @@
+git add archivo 
+git status 
+git checkout rama ... cambiar rama  
+git merge rama ... fusion con otra rama desde la principal 
+git commit -m "comentario"
+git init 
+git branch nombre 
+git branch 
